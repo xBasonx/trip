@@ -1,5 +1,3 @@
-from collections import deque
-
 question = ["Napisz wiadomość:", "Skarga na panią Jagódkę bo robi fikołki pokoju recepcjonistek"]
 person_list={"1":"Kacper Gazda"}
 number_question={"Jagódka Wacławczyk" : "789654231"}
